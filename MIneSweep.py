@@ -12,7 +12,7 @@ titleName = "Minesweeper X"
 saveDir = r"img_crop\items_crop\\"  # 用于保存item的文件夹
 saveDirPic = r"img_crop\img\\"  # 用于保存大图的文件夹
 
-# 此脚本只使用于win XP 风格扫雷软件
+# 此脚本只使用于win XP 风格扫雷软件  快速过关脚本
 
 left = 0
 top = 0
