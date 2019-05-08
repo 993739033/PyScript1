@@ -3,6 +3,73 @@
   <component name="ChangeListManager">
     <list default="true" id="fce697f5-1033-4a9a-bcca-7654ea14d2aa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MIneSweep.py" beforeDir="false" afterPath="$PROJECT_DIR$/MIneSweep.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/items_crop/item[0,3].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/items_crop/item[0,4].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/items_crop/item[1,0].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/items_crop/item[1,2].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/items_crop/item[1,3].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/items_crop/item[1,4].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/items_crop/item[1,5].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/items_crop/item[1,6].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/items_crop/item[2,0].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/items_crop/item[2,1].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/items_crop/item[2,2].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/items_crop/item[2,3].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/items_crop/item[2,4].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/items_crop/item[2,5].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/items_crop/item[2,6].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/items_crop/item[2,7].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/items_crop/item[3,3].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/items_crop/item[3,4].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/items_crop/item[3,5].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/items_crop/item[3,6].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/items_crop/item[3,7].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/items_crop/item[4,2].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/items_crop/item[4,3].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/items_crop/item[4,6].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/items_crop/item[4,7].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/items_crop/item[5,2].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/items_crop/item[5,3].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/items_crop/item[5,6].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/items_crop/item[5,7].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/items_crop/item[6,0].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/items_crop/item[6,3].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/items_crop/item[6,4].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/items_crop/item[7,1].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/items_crop/item[7,3].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/items_crop/item[7,4].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/meizi1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img_crop/meizi1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_crop/items_crop/item[0,1].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_crop/items_crop/item[0,2].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_crop/items_crop/item[0,3].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_crop/items_crop/item[0,4].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_crop/items_crop/item[0,5].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_crop/items_crop/item[0,6].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_crop/items_crop/item[0,7].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_crop/items_crop/item[1,1].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_crop/items_crop/item[1,2].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_crop/items_crop/item[1,3].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_crop/items_crop/item[1,4].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_crop/items_crop/item[1,5].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_crop/items_crop/item[1,6].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_crop/items_crop/item[1,7].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_crop/items_crop/item[2,1].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_crop/items_crop/item[2,2].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_crop/items_crop/item[2,3].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_crop/items_crop/item[2,4].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_crop/items_crop/item[2,5].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_crop/items_crop/item[4,4].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_crop/items_crop/item[4,5].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_crop/items_crop/item[5,4].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_crop/items_crop/item[5,5].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_crop/items_crop/item[6,5].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_crop/items_crop/item[6,6].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_crop/items_crop/item[6,7].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_crop/items_crop/item[7,5].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_crop/items_crop/item[7,6].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_crop/items_crop/item[7,7].jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/openCV.py" beforeDir="false" afterPath="$PROJECT_DIR$/openCV.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,45 +82,21 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MIneSweep.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-458">
-              <caret line="70" column="101" selection-start-line="70" selection-start-column="101" selection-end-line="70" selection-end-column="101" />
+            <state relative-caret-position="230">
+              <caret line="247" column="17" lean-forward="true" selection-start-line="247" selection-start-column="17" selection-end-line="247" selection-end-column="17" />
               <folding>
-                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#0#35#0" expanded="true" />
+                <element signature="e#6155#7573#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/items_crop/item[0,0].jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/items_crop/item[1,1].jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/items_crop/item[2,0].jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/items_crop/item[2,3].jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/items_crop/item[3,3].jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/获取到log数据">
+        <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1591505505/numpy/core/_multiarray_umath.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="76" column="35" selection-start-line="76" selection-start-column="35" selection-end-line="76" selection-end-column="35" />
+            <state relative-caret-position="177">
+              <caret line="7810" column="4" selection-start-line="7810" selection-start-column="4" selection-end-line="7810" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -72,6 +115,9 @@
       <find>map[y][x]</find>
       <find>map</find>
       <find>[(4, (255, 255, 255)), (66, (192, 192, 192)), (74, (0, 0, 0))]</find>
+      <find>[(12, (255, 255, 255)), (132, (192, 192, 192))]</find>
+      <find>click</find>
+      <find>[(64, (192, 192, 192))]</find>
     </findStrings>
     <replaceStrings>
       <replace>map[x][y]</replace>
@@ -112,6 +158,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -119,11 +166,15 @@
               <item name="PyScript1" type="b2602c69:ProjectViewProjectNode" />
               <item name="PyScript1" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PyScript1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyScript1" type="462c0819:PsiDirectoryNode" />
+              <item name="img_crop" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -283,7 +334,9 @@
       <workItem from="1557104588026" duration="19761000" />
       <workItem from="1557191032130" duration="1168000" />
       <workItem from="1557192224928" duration="5571000" />
-      <workItem from="1557199499435" duration="11215000" />
+      <workItem from="1557199499435" duration="12008000" />
+      <workItem from="1557219800530" duration="741000" />
+      <workItem from="1557277467946" duration="17022000" />
     </task>
     <task id="LOCAL-00001" summary="完成对扫雷界面的图片分割及子图片识别存储到数组中 的功能">
       <created>1557217799762</created>
@@ -296,7 +349,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42139000" />
+    <option name="totallyTimeSpent" value="60695000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -309,14 +362,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20362474" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20788912" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.35683298" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.23752712" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39045554" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
@@ -340,6 +394,33 @@
     <MESSAGE value="完成对扫雷界面的图片分割及子图片识别存储到数组中 的功能" />
     <option name="LAST_COMMIT_MESSAGE" value="完成对扫雷界面的图片分割及子图片识别存储到数组中 的功能" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MIneSweep.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MIneSweep.py</url>
+          <line>70</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MIneSweep.py</url>
+          <line>92</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="item_count_x" />
+        <watch expression="item_count_y" />
+      </configuration>
+    </watches-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PyScript1$PyWin32.coverage" NAME="PyWin32 Coverage Results" MODIFIED="1557192196679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyScript1$openCV.coverage" NAME="openCV Coverage Results" MODIFIED="1557208027989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -347,175 +428,172 @@
     <SUITE FILE_PATH="coverage/PyScript1$Script2.coverage" NAME="Script2 Coverage Results" MODIFIED="1557109151131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyScript1$lianliankan.coverage" NAME="lianliankan Coverage Results" MODIFIED="1557123975627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyScript1$MouseKeyController.coverage" NAME="MouseKeyController Coverage Results" MODIFIED="1557129531894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PyScript1$MIneSweep.coverage" NAME="MIneSweep Coverage Results" MODIFIED="1557217708148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyScript1$MIneSweep.coverage" NAME="MIneSweep Coverage Results" MODIFIED="1557299703153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyScript1$script1.coverage" NAME="script1 Coverage Results" MODIFIED="1557047170164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyScript1$Script4.coverage" NAME="Script4 Coverage Results" MODIFIED="1557132947127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[2,4].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[1,24].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[2,5].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[1,36].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[2,6].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[2,5].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[2,8].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[2,14].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[2,9].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[2,23].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[3,1].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[2,32].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[3,2].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[3,1].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[3,4].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[3,10].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[3,5].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[3,13].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[3,8].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[1,15].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[4,1].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[0,8].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[4,4].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[0,10].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[4,5].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[2,38].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[5,3].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[3,14].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[5,9].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[3,20].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[3,9].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[3,32].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[0,1].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[3,35].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[0,2].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[4,3].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[0,3].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[4,5].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[0,5].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[4,16].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[0,6].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[32,0].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[1,0].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[34,0].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[1,2].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[36,0].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[1,3].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[31,0].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[1,5].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[29,0].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[1,6].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[27,0].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[2,2].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[25,0].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[3,0].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[23,0].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[2,7].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[21,0].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[3,6].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[0,0].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[3,7].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[1,0].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[4,2].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[6,8].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[4,7].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[7,2].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[5,7].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[7,4].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[5,6].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[7,5].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[6,4].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[7,7].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[7,0].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[6,1].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[7,3].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[5,8].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/meizi1.jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[5,7].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[7,7].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[5,5].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[7,5].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[5,3].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[4,0].jpg">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[5,2].jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://F:/PythonLib/Lib/site-packages/PIL/ImageFile.py">
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[5,0].jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[4,7].jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[4,6].jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[4,1].jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[3,8].jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[3,6].jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img_crop/items_crop/item[3,0].jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1591505505/numpy/core/_multiarray_umath.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="513" selection-start-line="513" selection-end-line="513" />
+        <state relative-caret-position="177">
+          <caret line="7810" column="4" selection-start-line="7810" selection-start-column="4" selection-end-line="7810" selection-end-column="4" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[0,7].jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[0,0].jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[1,1].jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[2,0].jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[2,3].jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/获取到log数据">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="76" column="35" selection-start-line="76" selection-start-column="35" selection-end-line="76" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/items_crop/item[3,3].jpg">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/MIneSweep.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-458">
-          <caret line="70" column="101" selection-start-line="70" selection-start-column="101" selection-end-line="70" selection-end-column="101" />
+        <state relative-caret-position="230">
+          <caret line="247" column="17" lean-forward="true" selection-start-line="247" selection-start-column="17" selection-end-line="247" selection-end-column="17" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#35#0" expanded="true" />
+            <element signature="e#6155#7573#0" />
           </folding>
         </state>
       </provider>
